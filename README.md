@@ -1,4 +1,4 @@
-# Turbine Failure Detection
+# Turbine Failure Prediction
 
 Deep learning model to predict wind turbine generator failures from sensor data, enabling proactive maintenance and reduced operational downtime.
 
